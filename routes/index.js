@@ -12,7 +12,7 @@ router.get('/', function(request, response) {
       <img src="/images/hello.jpg" style="width:300px; display:block; margin-top:10px;">
       `,
       `<a href="/topic/create">create</a>`
-    ); 
+    ); //사진이 오류 나서 안보여요 TT
     response.send(html);
   });
    
