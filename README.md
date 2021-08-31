@@ -1,2 +1,2 @@
 Study Express
-with opentutorials.
+with opentutorials
